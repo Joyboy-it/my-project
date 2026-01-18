@@ -10,7 +10,7 @@ export default async function NotesPage() {
 
     return (
         <div className="p-8">
-            <h1 className="text-2xl font-bold mb-4">บันทึกทั้งหมด222</h1>
+            <h1 className="text-2xl font-bold mb-4">บันทึกทั้งหมด2225555</h1>
             <ul>
                 {notes?.map((note) => (
                     <li key={note.id} className="mb-2 p-4 border rounded">
